@@ -3,7 +3,7 @@
 ◽Minecraft sunucu geliştiriciliği ve discord bot geliştiriciliği yapıyorum.
 
 # İletişim
-**E-Posta: mail@craftwonder.com.tr**
+**E-Posta: .**
 
 **Discord: onur1692**
 
