@@ -25,4 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="Html Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg" alt="Maven Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
+</p>
+
 </p>
