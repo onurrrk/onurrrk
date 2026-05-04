@@ -18,14 +18,14 @@
 
 # İlgilendiğim Programlar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" alt="DiscordJs Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="Java Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="Html Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg" alt="Maven Logo" width="40" height="40" style="vertical-align: middle; display: inline-block;">
-</p>
-
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" width="40" height="40" alt="DJS"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" width="40" height="40" alt="Java"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"></td>
+  </tr>
+</table>
