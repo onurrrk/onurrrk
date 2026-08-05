@@ -1,5 +1,6 @@
-   # Merhaba, Ben Onur
+# 👋 Hi, my name is Onur
 
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-mu-dun-89.vercel.app/api?username=onurrrk&theme=dracula&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
@@ -11,12 +12,16 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurrrk&theme=tokyo-night&bg_color=282a36&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/629700365725466634" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a>
    
   <a href="https://github.com/onurrrk" style="text-decoration: none;"><img src="https://komarev.com/ghpvc/?username=onurrrk&style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views Badge" /></a>
 </p>
 
-# İlgilendiğim Programlar
+## ⚡ Tech Stack
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
