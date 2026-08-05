@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=onurrrk&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_title=true&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurrrk&theme=tokyo-night&bg_color=282a36&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurrrk&theme=tokyo-night&bg_color=282a36&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=onurrrk&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_title=true&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
