@@ -20,7 +20,7 @@
   &nbsp;
   <a href="https://github.com/onurrrk" style="text-decoration: none;"><img src="https://komarev.com/ghpvc/?username=onurrrk&style=flat&label=Profile%20Views&color=0e75b6" height="28" alt="Profile Views Badge" /></a>
   <br>
-  <a href="https://nebulonproject.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=flat&logo=google-chrome&logoColor=white" height="28" alt="Website Badge" /></a>
+  <a href="https://nebulonproject.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Website-nebulonproject.com-00bfff?style=flat&logo=google-chrome&logoColor=white" height="28" alt="Website Badge" /></a>
 </p>
 
 ## ⚡ Tech Stack
