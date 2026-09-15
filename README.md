@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurrrk&theme=tokyo-night&bg_color=282a36&hide_border=true" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=onurrrk&theme=tokyo-night&bg_color=282a36&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -16,9 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/629700365725466634" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a>
-   
+  <a href="https://discord.com/users/629700365725466634" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-onur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a>
+  &nbsp;
   <a href="https://github.com/onurrrk" style="text-decoration: none;"><img src="https://komarev.com/ghpvc/?username=onurrrk&style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views Badge" /></a>
+  <br>
+  <a href="https://nebulonproject.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" /></a>
 </p>
 
 ## ⚡ Tech Stack
