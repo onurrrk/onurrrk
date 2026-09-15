@@ -25,12 +25,15 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"></td>
-    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" width="40" height="40" alt="DJS"></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" width="40" height="40" alt="Java"></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" width="40" height="40" alt="DJS"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next"></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/cloudflareworkers/cloudflareworkers-original.svg" width="40" height="40" alt="CfWorkers"></td>    
   </tr>
 </table>
