@@ -6,11 +6,16 @@
   <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=onurrrk&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000&disable_animations=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=onurrrk&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true#gh-light-mode-only" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=onurrrk&theme=tokyo-night&hide_border=true&border_radius=5" alt="Top Languages" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=onurrrk&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true#gh-light-mode-only" alt="GitHub Stats" />
+    </td>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=onurrrk&theme=tokyo-night&hide_border=true&border_radius=5" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=onurrrk&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Activity Graph" />
